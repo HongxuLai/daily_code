@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/laihongxu/Desktop/daily_code/daily_code/APS105/lab0",
+      "program": "/Users/laihongxu/Desktop/daily_code/daily_code/APS105/lab0/build/Debug/outDebug"
+    }
+  ]
+}
